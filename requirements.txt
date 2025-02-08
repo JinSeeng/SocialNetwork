@@ -1,0 +1,2 @@
+# Version de Python requise
+python>=3.10
